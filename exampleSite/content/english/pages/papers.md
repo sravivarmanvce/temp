@@ -8,6 +8,7 @@ image: "/images/banner.png"
 # save as draft
 draft: false
 ---
+{{< image src="images/bannerhorizon.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 The ICSGET-2024 is a platform both for industry and academia to present and discuss the innovations, trends, and concerns as well as the challenges encountered and solutions. We invite researchers, professionals, and industry experts to to submit their original, unpublished research contributions to these tracks that are not currently under consideration by another conference/journal, and be part of a collaborative effort to shape a sustainable and eco-conscious energy future.
 
