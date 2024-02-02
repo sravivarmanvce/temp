@@ -11,7 +11,7 @@ draft: false
 
 **Contact Email:** icsget@vardhaman.org
 
-<table border="0">
+<table border="1">
  <tr>
     <td>
 
