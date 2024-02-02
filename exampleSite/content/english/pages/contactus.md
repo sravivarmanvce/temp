@@ -19,7 +19,7 @@ draft: false
 
 ### For Queries
 <br>
-## **Contact Email: [icsget@vardhaman.org](icsget@vardhaman.org)**
+### Contact Email: [icsget@vardhaman.org](icsget@vardhaman.org)
 
 
 Dr. N. Karuppiah<br>
