@@ -2,6 +2,7 @@
 # Banner
 banner:
   title: "International Conference on Sustainable Green Energy Technologies (ICSGET 2024)"
+  24, 25 May 2024
   content: "Organized by Department of EEE, Vardhaman College of Engineering, Hyderabad,India"
   image: "/images/banner.png"
   button:
