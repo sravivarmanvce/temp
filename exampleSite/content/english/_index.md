@@ -2,12 +2,12 @@
 # Banner
 banner:
   title: "International Conference on Sustainable Green Energy Technologies (ICSGET 2024)"
-  content: "Organized by Vardhaman College of Engineering, Hyderabad,India"
+  content: "Organized by Department of EEE, Vardhaman College of Engineering, Hyderabad,India"
   image: "/images/banner.png"
   button:
     enable: true
     label: "Submit Your Paper"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://github.com/"
 
 # Features
 features:
