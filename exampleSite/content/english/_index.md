@@ -19,16 +19,19 @@ features:
       label: "Get Started Now"
       link: "#"
 
-# Important Dates
-{{< tabs >}}
-{{< tab "" >}}
-**Firm deadline:** March 01, 2024<br>
-**Author Notification:** April 20, 2024<br>
-**Camera-Ready Submission:** April 30, 2024<br>
-**Conference Date:** May 24, 25, 2024<br>
-**Submission Link:** Easychair
-{{< /tab >}}
-{{< /tabs >}}
+# # Banner
+banner:
+  title: "International Conference on Sustainable Green Energy Technologies (ICSGET 2024)"
+  content:
+    {{< tabs >}}
+    {{< tab "" >}}
+    **Firm deadline:** March 01, 2024<br>
+    **Author Notification:** April 20, 2024<br>
+    **Camera-Ready Submission:** April 30, 2024<br>
+    **Conference Date:** May 24, 25, 2024<br>
+    **Submission Link:** Easychair
+    {{< /tab >}}
+    {{< /tabs >}}
 
   - title: "Discover the Key Features Of Hugo"
     image: "/images/service-2.png"
