@@ -26,7 +26,7 @@ Associate Professor, Department of EEE<br>
 Vardhaman College of Engineering, Hyderabad, India<br>
 Mobile: +91 96296 32445<br>
 
-<p style=”border: 2px solid orange;”>
+<p style=”border: 2px solid black;”>
   <form action="https://airform.io/icsget@vardhaman.org" method="post">
     <label for="fname">Name:</label>
     <input type="text" name="name" placeholder="Enter your name"><br>
