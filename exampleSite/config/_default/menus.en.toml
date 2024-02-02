@@ -17,48 +17,42 @@ url = "committee/"
 weight = 3
 
 [[main]]
+name = "Speakers"
+url = "speakers/"
 weight = 4
-name = "Pages"
-hasChildren = true
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "blog/"
+name = "Submission"
+url = "submission/"
+weight = 5
 
 [[main]]
-parent = "Pages"
+name = "Registration"
+url = "registration/"
+weight = 6
+
+[[main]]
+name = "Schedule"
+url = "schedule/"
+weight = 7
+
+[[main]]
 name = "Contact"
 url = "contact/"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "authors/"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "categories/"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "404/"
-
+weight = 8
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/"
+name = "Home"
+url = "/"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "elements/"
+name = "Submission"
+url = "submission/"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+name = "Contact"
+url = "contact/"
 weight = 3
