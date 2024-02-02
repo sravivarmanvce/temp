@@ -38,8 +38,11 @@ Vardhaman College of Engineering, Hyderabad, India<br>
 Mobile: +91 96296 32445<br>
 
 <form action="https://airform.io/icsget@vardhaman.org" method="post">
+  <label for="fname">Name:</label>
   <input type="text" name="name" placeholder="Enter your name">
+  <label for="email">Email:</label>
   <input type="text" name="email" placeholder="Enter your email">
+  <label for="message">Email:</label>
   <textarea name="message" placeholder="Enter your message"></textarea>
   <button>Send</button>
 </form>
