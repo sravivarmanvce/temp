@@ -49,3 +49,12 @@ The ICSGET-2024 is a platform both for industry and academia to present and disc
 
 Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered (preseneted) papers will be published in the **Scopus indexed Conference Proceedings**.
 
+{{< tabs >}}
+{{< tab "Important Dates" >}}
+**Firm deadline:** March 01, 2024<br>
+**Author Notification:** April 20, 2024<br>
+**Camera-Ready Submission:** April 30, 2024<br>
+**Conference Date:** May 24, 25, 2024<br>
+**Submission Link:** Easychair
+{{< /tab >}}
+{{< /tabs >}}
