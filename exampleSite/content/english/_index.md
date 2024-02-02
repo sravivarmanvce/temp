@@ -1,26 +1,19 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "International Conference on Sustainable Green Energy Technologies (ICSGET 2024)"
+  content: "Organized by Vardhaman College of Engineering, Hyderabad,India"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Submit Your Paper"
     link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "About ICSGET 2024"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-    bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+    content: "The **International Conference on Sustainable Green Energy Technologies (ICSGET 2024)** is conducted by the Department of Electrical and Electronics Engineering, Vardhaman College of Engineering, Hyderabad. The main aim of this international conference is to bring together researchers to facilitate knowledge sharing in emerging technologies and enhance collaboration world over. Along with researchers, the professionals and executives from energy sector, manufacturing industries, electrical power companies are invited to share their ideas and information pertaining to recent thrust areas of sustainable green energy technologies. The conference will enable the delegates to undertake collaborative research, update their technical knowledge and to stay in tune with recent advances. The technical program consists of keynote lectures, peer-reviewed paper presentations, panel discussions and presentations by industry professionals. It is envisaged that the conference will provide a platform where opportunities for national and international collaboration amongst top universities (from India and abroad) is plentiful."
     button:
       enable: false
       label: "Get Started Now"
