@@ -11,10 +11,13 @@ draft: false
 
 **Contact Email:** icsget@vardhaman.org
 
-**Dr. N. Karuppiah**<br>
-Professor and Head, Department of EEE<br>
-Vardhaman College of Engineering, Hyderabad, India<br>
-Mobile: +91 97518 33346<br>
+<table border="0">
+ <tr>
+    <td>
+	**Dr. N. Karuppiah**<br>
+    Professor and Head, Department of EEE<br>
+    Vardhaman College of Engineering, Hyderabad, India<br>
+    Mobile: +91 97518 33346<br>
 
 **Dr. S. Ravivarman**<br>
 Professor, Department of EEE<br>
@@ -25,8 +28,9 @@ Mobile: +91 99942 77431<br>
 Associate Professor, Department of EEE<br>
 Vardhaman College of Engineering, Hyderabad, India<br>
 Mobile: +91 96296 32445<br>
-
-<p style=”border: 2px solid black;”>
+	</td>
+    <td>
+	<p style=”border: 2px solid black;”>
   <form action="https://airform.io/icsget@vardhaman.org" method="post">
     <label for="fname">Name:</label>
     <input type="text" name="name" placeholder="Enter your name"><br>
@@ -37,3 +41,8 @@ Mobile: +91 96296 32445<br>
     <button>Send</button>
   </form>
 </p>
+	</td>
+ </tr>
+</table>
+
+
