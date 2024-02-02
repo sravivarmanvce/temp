@@ -4,6 +4,7 @@ title: "Call for Papers"
 meta_title: ""
 # meta description
 description: "Call for Papers - ICSGET 2024"
+image: "/images/banner.png"
 # save as draft
 draft: false
 ---

@@ -4,6 +4,7 @@ title: "Submission Guidelines"
 meta_title: ""
 # meta description
 description: "Submission - ICSGET 2024"
+image: "/images/banner.png"
 # save as draft
 draft: false
 ---
