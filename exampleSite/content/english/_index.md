@@ -21,7 +21,7 @@ features:
 
   - title: "Important Dates"
     image: "/images/dates.png"
-    content: ""
+    content: "Important Dates"
     bulletpoints:
       - **Firm deadline:** March 01, 2024
       - **Author Notification:** April 20, 2024
