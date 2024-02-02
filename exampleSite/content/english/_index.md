@@ -19,6 +19,17 @@ features:
       label: "Get Started Now"
       link: "#"
 
+# Important Dates
+{{< tabs >}}
+{{< tab "" >}}
+**Firm deadline:** March 01, 2024<br>
+**Author Notification:** April 20, 2024<br>
+**Camera-Ready Submission:** April 30, 2024<br>
+**Conference Date:** May 24, 25, 2024<br>
+**Submission Link:** Easychair
+{{< /tab >}}
+{{< /tabs >}}
+
   - title: "Discover the Key Features Of Hugo"
     image: "/images/service-2.png"
     content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
@@ -30,17 +41,4 @@ features:
       enable: true
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
 ---

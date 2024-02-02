@@ -1,20 +1,9 @@
 ---
-title: John Doe
-email: johndoe@email.com
+title: ICSGET
+email: icsget@vardhaman.org
 image: "/images/avatar.png"
-description: this is meta description
+description: ICSGET 2024
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
-
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Department of EEE, Vardhaman College of Engineering, Hyderabad, India.
