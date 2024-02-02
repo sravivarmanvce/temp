@@ -36,7 +36,7 @@ Mobile: +91 96296 32445<br>
     <input type="text" name="name" placeholder="Enter your name"><br>
     <label for="email">Email:</label>
     <input type="text" name="email" placeholder="Enter your email"><br>
-    <label for="message">Email:</label>
+    <div style="vertical-align: middle"><div><label for="message">Message:</label></div></div>
     <textarea name="message" placeholder="Enter your message"></textarea><br>
     <button>Send</button>
     </form>
