@@ -21,10 +21,10 @@ features:
 
 # # Banner
 banner:
-  title: "International Conference on Sustainable Green Energy Technologies (ICSGET 2024)"
+  title: "Important Dates"
   content:
     {{< tabs >}}
-    {{< tab "" >}}
+    {{< tab "Important Dates" >}}
     **Firm deadline:** March 01, 2024<br>
     **Author Notification:** April 20, 2024<br>
     **Camera-Ready Submission:** April 30, 2024<br>
