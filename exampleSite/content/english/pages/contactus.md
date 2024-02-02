@@ -7,6 +7,9 @@ description: "Contact - ICSGET 2024"
 # save as draft
 draft: false
 ---
+
+{{< image src="images/bannerhorizon.png" caption="ICSGET 2024" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+
 ### For Queries
 
 **Contact Email:** icsget@vardhaman.org
