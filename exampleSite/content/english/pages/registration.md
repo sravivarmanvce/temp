@@ -9,18 +9,11 @@ image: "/images/banner.png"
 draft: false
 ---
 {{< tabs >}}
-{{< tab "Tab 1" >}}
-
-### Important Dates
-Firm deadline : 10th August 2023
-
-Author Notification: 10th September 2023
-
-Camera-Ready Submission: 20th September 2023
-
-Conference Date: 9th & 10th November 2023
-
+{{< tab "Important Dates" >}}
+Firm deadline : March 01, 2024<br>
+Author Notification: April 20, 2024<br>
+Camera-Ready Submission: April 30, 2024<br>
+Conference Date: May 24, 25, 2024<br>
 Submission Link: Easychair
-
 {{< /tab >}}
 {{< /tabs >}}
