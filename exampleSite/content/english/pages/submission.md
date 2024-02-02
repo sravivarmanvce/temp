@@ -7,6 +7,18 @@ description: "Submission - ICSGET 2024"
 # save as draft
 draft: false
 ---
+{{< notice "warning" >}}
+### Important Dates
+Firm deadline : 10th August 2023
+
+Author Notification: 10th September 2023
+
+Camera-Ready Submission: 20th September 2023
+
+Conference Date: 9th & 10th November 2023
+
+Submission Link: Easychair
+{{< /notice >}}
 
 ## Paper submission & review policy
 Authors are advised to submit their original and unpublished work (related to the conference theme).
@@ -29,5 +41,7 @@ Position paper (6 - 8 pages): We are also accepting the position papers for post
 
 In general, such position papers should portray a short report of work in progress or an arguable opinion about facts, methods, procedures, or scientific research results. These papers can also be published in CCIS, Springer (Approval Pending) if the area chairs recommend doing so.
 
-Important Note
+{{< notice "warning" >}}
+### Important Note
 Regardless of submission types, authors are always advised to submit their original and unpublished work (related to the conference theme).
+{{< /notice >}}
