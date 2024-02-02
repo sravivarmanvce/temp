@@ -29,6 +29,6 @@ features:
       - "Conference Date: May 24, 25, 2024"
     button:
       enable: true
-      label: "Submit Your Paper"
+      label: "Submit Paper"
       link: "https://easychair.org/"
 ---
