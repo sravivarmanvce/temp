@@ -1,10 +1,9 @@
 ---
-title: "Submission Guidelines"
+title: "Contact"
 # meta title
 meta_title: ""
 # meta description
-description: "Submission - ICSGET 2024"
-image: "/images/banner.png"
+description: "Contact - ICSGET 2024"
 # save as draft
 draft: false
 ---
