@@ -39,6 +39,7 @@ Mobile: +91 96296 32445<br>
 
 <form action="https://airform.io/icsget@vardhaman.org" method="post">
   <input type="text" name="name" placeholder="Enter your name">
+  <input type="text" name="email" placeholder="Enter your email">
   <textarea name="message" placeholder="Enter your message"></textarea>
   <button>Send</button>
 </form>
