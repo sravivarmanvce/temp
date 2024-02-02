@@ -9,7 +9,7 @@ banner:
     label: "Submit Paper"
     link: "https://easychair.org"
 
-## 24-25 May 2024
+24-25 May 2024
 
 # Features
 features:
