@@ -28,7 +28,7 @@ features:
       - "Firm deadline: March 01, 2024"
       - "Author Notification: April 20, 2024"
       - "Camera-Ready Submission: April 30, 2024"
-      - "Conference Date: May 24, 25, 2024"
+      - "Conference Date: May 24-25, 2024"
     button:
       enable: true
       label: "Submit Paper"
