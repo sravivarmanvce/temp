@@ -37,8 +37,8 @@ Associate Professor, Department of EEE<br>
 Vardhaman College of Engineering, Hyderabad, India<br>
 Mobile: +91 96296 32445<br>
 
-<form method="post" action="https://airform.io/siliconravi@gmail.com">
-  <input type="text" name="name">
-  <textarea name="message"></textarea>
+<form action="https://airform.io/icsget@vardhaman.org" method="post">
+  <input type="text" name="name" placeholder="Enter your name">
+  <textarea name="message" placeholder="Enter your message"></textarea>
   <button>Send</button>
 </form>
