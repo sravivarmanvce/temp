@@ -12,8 +12,8 @@ url = "callforpapers/"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "elements/"
+name = "Committee"
+url = "committee/"
 weight = 3
 
 [[main]]
