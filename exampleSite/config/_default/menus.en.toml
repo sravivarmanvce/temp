@@ -17,29 +17,24 @@ url = "committee/"
 weight = 3
 
 [[main]]
-name = "Speakers"
-url = "speakers/"
-weight = 4
-
-[[main]]
 name = "Submission"
 url = "submission/"
-weight = 5
+weight = 4
 
 [[main]]
 name = "Registration"
 url = "registration/"
-weight = 6
+weight = 5
 
 [[main]]
 name = "Schedule"
 url = "schedule/"
-weight = 7
+weight = 6
 
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 8
+weight = 7
 
 # footer menu
 [[footer]]
