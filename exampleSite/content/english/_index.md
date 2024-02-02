@@ -19,7 +19,7 @@ features:
       label: "Get Started Now"
       link: "#"
 
-# # Banner
+# Banner
 banner:
   title: "Important Dates"
   content:
@@ -28,7 +28,8 @@ banner:
     **Camera-Ready Submission:** April 30, 2024<br>
     **Conference Date:** May 24, 25, 2024<br>
     **Submission Link:** Easychair
-    
+
+# Features    
   - title: "Discover the Key Features Of Hugo"
     image: "/images/service-2.png"
     content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
