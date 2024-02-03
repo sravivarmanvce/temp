@@ -28,7 +28,8 @@ The review process takes into account both the quality of writing and the scient
 Also, note that the (ICSGET) team takes care of plagiarism (even self-plagiarism) as serious professional misconduct. All papers will be screened for plagiarism, and the (ICSGET) team will reject them in case there exists significant overlap with the previously published papers/papers.
 
 ## Template (for papers)
-We recommend authors use WORD or LaTeX template (Latex, however, is preferred). For complete information, follow the link: CCIS, Springer Nature (Approval Pending).https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi
+We recommend authors use WORD or LaTeX template (Latex, however, is preferred). It is planned to publish the proceedings with **"E3S Web of Conferences” (final approval pending)**.
+{{< image src="images/e3s.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 ## Submission guidelines
 Three different types of submissions are expected: 1) regular paper, 2) invited paper, and 3) position paper.
