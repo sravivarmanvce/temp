@@ -31,10 +31,6 @@ features:
       enable: true
       label: "Submit Paper"
       link: "https://easychair.org/"
-
-### Gallery
-
-{{< gallery dir="images/gallery" class="" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 ---
 
 ### Gallery
