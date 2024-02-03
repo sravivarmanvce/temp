@@ -39,6 +39,4 @@ features:
       enable: true
       label: "E3S Web of Conferences"
       link: "https://www.e3s-conferences.org/"
-
-
 ---
