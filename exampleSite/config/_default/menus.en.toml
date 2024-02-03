@@ -27,8 +27,8 @@ url = "registration/"
 weight = 5
 
 [[main]]
-name = "Schedule"
-url = "schedule/"
+name = "Past Conference"
+url = "icsget2022/"
 weight = 6
 
 [[main]]
