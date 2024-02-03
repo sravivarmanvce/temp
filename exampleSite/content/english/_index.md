@@ -31,4 +31,14 @@ features:
       enable: true
       label: "Submit Paper"
       link: "https://easychair.org/"
+
+  - title: "Conference Proceedings"
+    image: "/images/e3s.png"
+    content: "All accepted and registered (preseneted) papers is planned to publish in the proceedings of **"E3S Web of Conferences” (final approval pending)**"
+    button:
+      enable: true
+      label: "E3S Web of Conferences"
+      link: "https://www.e3s-conferences.org/"
+
+
 ---
