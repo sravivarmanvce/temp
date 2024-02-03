@@ -35,11 +35,6 @@ features:
   - title: "Conference Proceedings"
     image: "/images/e3s.png"
     content: "All accepted and registered (preseneted) papers is planned to publish in the proceedings of **E3S Web of Conferences (final approval pending)**."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
     button:
       enable: true
       label: "E3S Web of Conferences"
