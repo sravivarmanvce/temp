@@ -34,9 +34,9 @@ features:
 
 ### Gallery
 
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/gallery" class="" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 ---
 
 ### Gallery
 
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/gallery" class="" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
