@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: "/about/"
+title: Call for Papers
+permalink: "/callforpapers/"
 image: assets/images/vardhaman.png
 ---
 

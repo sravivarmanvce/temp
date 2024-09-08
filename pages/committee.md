@@ -1,7 +1,7 @@
 ---
 layout: page
-title: EPICS Team
-permalink: "/epics-team/"
+title: Committee
+permalink: "/committee/"
 image: assets/images/epics-team.png
 ---
 <style>

@@ -1,7 +1,7 @@
 ---
 layout: projects
-title: Projects
-permalink: "/projects/"
+title: Speakers
+permalink: "/speakers/"
 image: assets/images/projects-banner.png
 comments: false
 ---

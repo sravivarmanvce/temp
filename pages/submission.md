@@ -1,7 +1,7 @@
 ---
 layout: projects
-title: Resources
-permalink: "/resources/"
+title: Submission
+permalink: "/submission/"
 image: assets/images/resources.png
 comments: false
 ---

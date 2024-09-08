@@ -1,31 +1,29 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: ICSGET
   url: ""
 
-- title: About
-  url: "about/"
+- title: Call for Papers
+  url: "calforpapers/"
   
-- title: EPICS Team
-  url: "epics-team/"
+- title: Committee
+  url: "committee/"
 
-- title: Projects
-  url: "projects/"  
+- title: Speakers
+  url: "speakers/"  
 
-- title: Resources
-  url: "resources/"  
+- title: Submission
+  url: "submission/"  
 
-- title: Gallery
+- title: Registration
+  url: "gallery/"  
+
+- title: Past Conferences
   url: "gallery/"  
 
 - title: Contact
-  url: "contact/"  
-
-- title: Vardhaman  
-  url: https://vardhaman.org/
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
+  url: "contact/"
 
 # Footer Menu
 footermenu:
@@ -33,7 +31,7 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Privacy Policy
+- title: Submission
   url: "privacy-policy/"
 
 - title: Contact
