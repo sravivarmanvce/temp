@@ -1,9 +1,6 @@
 # Top Menu
 topmenu:
 
-- title: ICSGET
-  url: ""
-
 - title: Call for Papers
   url: "calforpapers/"
   
