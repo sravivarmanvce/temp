@@ -12,6 +12,7 @@ background: '/img/bg-index.jpg'
     <div class="col-md-6">
       <h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">ICSGET 2025</h1>
       <h2 class="mb-4" style="color:#F8931F">3rd International Conference on Sustainable Green Energy Technologies</h2>
+	  <h3 class="mb-4" style="color:#F8931F">Organized by Department of EEE, Vardhaman College of Engineering</h3>
       <a href="{{site.baseurl}}/submission" class="btn btn-dark text-white px-5 btn-lg">Submit your paper</a>
     </div>
     <div class="col-md-6 text-right pl-0 pl-lg-4">
