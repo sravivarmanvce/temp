@@ -1,11 +1,11 @@
-title: "EPICS"
-email: epics@vardhaman.org
+title: "ICSGET 2025"
+email: icsget@vardhaman.org
 timezone: IST
 baseurl: "/temp"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Ravivarman
 paginate: 30
 disqus: 'vardhaman'
 locale: en_us
@@ -31,16 +31,7 @@ authors:
     email: ravivarman@vardhaman.org
     web: https://www.sravivarman.com/
     twitter: https://twitter.com/
-    description: "Author"
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
-
+    description: "Dr. S. Ravivarman, Professor, EEE, Vardhaman College of Engineering, Hyderabad - 50128, Telangana, India."
 # Social
 social:
   instagram: https://www.instagram.com/#
