@@ -52,12 +52,12 @@ h4, .h4, h5, .h5 {
     font-weight:600 !important;
 }
 a {
-    color:inherit;
+    color:blue;
     text-decoration:none;
     transition: all .4s;
     &:hover {
-        text-decoration:none;
-        color:inherit;
+        text-decoration:underline;
+		color:red;
         transition: all .4s;
     }
 }
@@ -135,7 +135,7 @@ small, .small {
 /* Pages
 ================================================== */
 .hero {
-    background: #fdd93d;
+    background: #732BF5;
     padding: 5rem 5rem;
 }
 
@@ -612,4 +612,140 @@ span.navigation:before {
 .hover-opacity:hover {
     transition: all.3s;
     opacity:.8;
+}
+
+
+/************************************************************************/
+
+
+
+/*Card2 Styling*/
+
+.card2 {
+    border: 1px solid #dedede;
+    background-color: white;
+
+    &__wrap {
+
+        &--inner {
+            padding: 12px;
+        }
+    }
+
+    &__item {
+        padding: 12px 18px 12px 18px;
+    }
+
+    &__sub {
+        padding: 0 18px;
+    }
+
+    &__footer {
+        padding: 18px;
+        overflow: hidden;
+        border-top: 1px solid #dedede;
+    }
+}
+
+/*Card2 Flex Code*/
+
+.card2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    &__wrap {
+
+        &--outer {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+
+        &--inner {
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+					
+						@media (min-width: 480px) { 
+								width: 100%;
+						}
+					
+						@media (min-width: 1024px) { 
+								width: 50%;
+						}
+        }
+    }
+}
+
+.flexible {
+    flex-grow: 1;
+}
+
+.colorgreen {
+	background-color: #B4FFB4
+}
+
+.coloryellow {
+	background-color: #FFFFB4;
+}
+
+.colorblue {
+	background-color: #87C8FF;
+}
+
+.colorlavender {
+	background-color: #C8BFE7;
+}
+
+
+/********************************************************************/
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 20%;
+  padding: 2px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+
+/**********************************************************gallery*/
+/* Main CSS */
+.grid-wrapper > div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.grid-wrapper > div > img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	border-radius: 5px;
+}
+
+.grid-wrapper {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	grid-auto-rows: 200px;
+	grid-auto-flow: dense;
+}
+.grid-wrapper .wide {
+	grid-column: span 2;
+}
+.grid-wrapper .tall {
+	grid-row: span 2;
+}
+.grid-wrapper .big {
+	grid-column: span 2;
+	grid-row: span 2;
 }

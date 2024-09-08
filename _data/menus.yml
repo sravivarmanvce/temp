@@ -6,12 +6,24 @@ topmenu:
 
 - title: About
   url: "about/"
+  
+- title: EPICS Team
+  url: "epics-team/"
+
+- title: Projects
+  url: "projects/"  
+
+- title: Resources
+  url: "resources/"  
+
+- title: Gallery
+  url: "gallery/"  
 
 - title: Contact
-  url: "contact/"
+  url: "contact/"  
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Vardhaman  
+  url: https://vardhaman.org/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -27,6 +39,6 @@ footermenu:
 - title: Contact
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: Vardhaman
+  url: https://vardhaman.org/
   external: true
