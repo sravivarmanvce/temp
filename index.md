@@ -11,7 +11,7 @@ background: '/img/bg-index.jpg'
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
       <h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">ICSGET 2025</h1>
-      <h2 class="mb-4" style="color:#F8931F">International Conference on Sustainable Green Energy Technologies</h2>
+      <h2 class="mb-4" style="color:#F8931F">3rd International Conference on Sustainable Green Energy Technologies</h2>
       <a href="{{site.baseurl}}/submission" class="btn btn-dark text-white px-5 btn-lg">Submit your paper</a>
     </div>
     <div class="col-md-6 text-right pl-0 pl-lg-4">
@@ -22,8 +22,8 @@ background: '/img/bg-index.jpg'
 {% endif %}
 
 &nbsp;
-## EPICS @ VARDHAMAN
-<p align="justify">VCE - Engineering Projects in community Services (VISn @ V – Viable Innovative Solutions for community needs at Vardhaman) is one of the best practices in Vardhaman Campus. EPICS is a unique programme in which teams of undergraduates design, build, and deploy real systems to solve engineering problems for local community service and educational organizations.The programme focuses on identifying the needs of the society and providing a viable and sustainable solution.</p>
+## ICSGET 2025
+<p align="justify">The Third International Conference on Sustainable Green Energy Technologies (ICSGET 2025) is conducted by the Department of Electrical and Electronics Engineering, Vardhaman College of Engineering, Hyderabad. The main aim of this international conference is to bring together researchers to facilitate knowledge sharing in emerging technologies and enhance collaboration world over. Along with researchers, the professionals and executives from energy sector, manufacturing industries, electrical power companies are invited to share their ideas and information pertaining to recent thrust areas of sustainable green energy technologies. The conference will enable the delegates to undertake collaborative research, update their technical knowledge and to stay in tune with recent advances. The technical program consists of keynote lectures, peer-reviewed paper presentations, panel discussions and presentations by industry professionals. It is envisaged that the conference will provide a platform where opportunities for national and international collaboration amongst top universities (from India and abroad) is plentiful.</p>
 &nbsp;
 
 ---
