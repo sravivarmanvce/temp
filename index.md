@@ -62,4 +62,3 @@ background: '/img/bg-index.jpg'
 		</div>
 	</div>
 </div>
----
