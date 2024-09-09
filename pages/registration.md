@@ -5,6 +5,13 @@ permalink: "/registration/"
 image: assets/images/banner-alt.png
 ---
 
+-----------------------------------------------------
+|Type of Authors|Indian Authors|Foreign Authors|
+|---------------|--------------|---------------|
+|Faculty/Students|Rs. 9000|125|USD|
+|Industry|Rs. 9000|125 USD|
+
+
 <table border="1">
 <thead>
   <tr>
