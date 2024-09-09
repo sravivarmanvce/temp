@@ -15,12 +15,6 @@ The review process takes into account both the quality of writing and the scient
 
 Also, note that the (ICSGET) team takes care of plagiarism (even self-plagiarism) as serious professional misconduct. All papers will be screened for plagiarism, and the (ICSGET) team will reject them in case there exists significant overlap with the previously published papers/papers.
 
-## Template (for papers)
-We recommend authors use WORD template. It is planned to publish the proceedings with **"E3S Web of Conferences”**.
-
-
-Template link: [MS Word](https://github.com/sravivarmanvce/icsget/raw/main/ICSGET_2024_WOC_2col_Template.docx)
-
 ## Submission guidelines
 Three different types of submissions are expected: 1) regular paper, 2) invited paper, and 3) position paper.
 
