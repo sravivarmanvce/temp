@@ -16,12 +16,12 @@ image: assets/images/banner-alt.png
 <tbody>
   <tr>
     <td>Faculty/Students</td>
-    <td>₹ 9000/-</td>
+    <td>Rs. 9000/-</td>
 	<td>125 USD</td>
   </tr>
   <tr>
     <td>Industry</td>
-    <td>₹ 9000/-</td>
+    <td>Rs. 9000/-</td>
 	<td>125 USD</td>
   </tr>
 </tbody>
