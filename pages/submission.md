@@ -6,184 +6,45 @@ image: assets/images/resources.png
 comments: false
 ---
 
-### Resources
+{{< tabs >}}
+{{< tab "Important Dates" >}}
+**Firm deadline:** ~~May 1, 2024~~(Submission Closed)<br>
+**Author Notification:** May 20, 2024<br>
+**Camera-Ready Submission:** May 30, 2024<br>
+**Conference Date:** June 14, 15, 2024<br>
+{{< /tab >}}
+{{< /tabs >}}
 
-EPICS is a way to impact communities and bring your project ideas and concept to life. Resources are available on this page to assist you and make sure your project is successful.
+## Template and Submission
 
-<div class="col-md-12">
-    <table class="sortable">
-      <thead>
-        <tr>
-          <th class="no-sort">Course</th>
-          <th class="no-sort">Resources</th>
-          <th class="no-sort">PDF</th>
-		  <th class="no-sort">Latex</th>
-          <th class="no-sort">MS Office</th>
-        </tr>
-      </thead>
-      <tbody>
-	  
-        <tr>
-			<td>Social Innovation</td>
-			<td>Module 1: Introduction to Social Innovation</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-        <tr>
-			<td>Social Innovation</td>
-			<td>Module 2: Create Mindsets and Wicked Problems</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-		<tr>
-			<td>Social Innovation</td>
-			<td>Module 3: Critical and Creative Thinking for Social Innovation</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-        <tr>
-			<td>Social Innovation</td>
-			<td>Module 4: Process of Social Innovation</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-        <tr>
-			<td>Social Innovation</td>
-			<td>Module 5: Social Innovation across Four Sectors</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-		
-		<tr><td></td></tr>
-		<tr><td></td><td></td><td></td><td></td><td></td></tr>
-		<tr><td></td></tr>
-		
-		<tr>
-			<td>Engineering Exploration</td>
-			<td>Module 1: Introduction to Engineering and Engineering Study</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-        <tr>
-			<td>Engineering Exploration</td>
-			<td>Module 2: Engineering Design Process</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-		<tr>
-			<td>Engineering Exploration</td>
-			<td>Module 3: Introduction to Open-source Platforms</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-        <tr>
-			<td>Engineering Exploration</td>
-			<td>Module 4: Engineering Ethics and Sustainability</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-        <tr>
-			<td>Engineering Exploration</td>
-			<td>Module 5: Project Management & Tools</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
+> #### **Template:** [MS Word](https://github.com/sravivarmanvce/icsget/raw/main/ICSGET_2024_WOC_2col_Template.docx)<br>
+> #### **Submission Link:** Submission Closed
 
-		<tr><td></td></tr>
-		<tr><td></td><td></td><td></td><td></td><td></td></tr>
-		<tr><td></td></tr>
-		
-		<tr>
-			<td>Engineering Design Thinking</td>
-			<td>Module 1: Introduction & Case Studies</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-        <tr>
-			<td>Engineering Design Thinking</td>
-			<td>Module 2: Human Centered Design</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-		<tr>
-			<td>Engineering Design Thinking</td>
-			<td>Module 3: Development of Specification and Prototyping</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-        <tr>
-			<td>Engineering Design Thinking</td>
-			<td>Module 4: Ideation, Innovation & Creativity in Design</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-        <tr>
-			<td>Engineering Design Thinking</td>
-			<td>Module 5: Design for Robustness</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
+## Paper submission & review policy
+Authors are advised to submit their original and unpublished work (related to the conference theme).
 
-		<tr><td></td></tr>
-		<tr><td></td><td></td><td></td><td></td><td></td></tr>
-		<tr><td></td></tr>
-		
-		<tr>
-			<td>Product Realization</td>
-			<td>Module 1: Introduction and Planning of Product Realization</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-        <tr>
-			<td>Product Realization</td>
-			<td>Module 2: Customer-Related Processes</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-		<tr>
-			<td>Product Realization</td>
-			<td>Module 3: Design and Development</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-        <tr>
-			<td>Product Realization</td>
-			<td>Module 4: Purchasing, Production and Service Provision</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
-        <tr>
-			<td>Product Realization</td>
-			<td>Module 5: Scope of Product Perseverance</td>
-			<td>Download</td>
-			<td>Download</td>
-			<td>Download</td>
-        </tr>
+The review process takes into account both the quality of writing and the scientific impact of the work. Authors should clearly identify the problem, explain their contribution(s), and justify the state-of-the-art works. The program committee would like to review those who develop, argue, and provide results.
 
-		<tr><td></td></tr>
-		<tr><td></td><td></td><td></td><td></td><td></td></tr>
-		<tr><td></td></tr>
-		
-      </tbody>
-      <tfoot></tfoot>
-    </table>
-</div>
+Also, note that the (ICSGET) team takes care of plagiarism (even self-plagiarism) as serious professional misconduct. All papers will be screened for plagiarism, and the (ICSGET) team will reject them in case there exists significant overlap with the previously published papers/papers.
+
+## Template (for papers)
+We recommend authors use WORD template. It is planned to publish the proceedings with **"E3S Web of Conferences”**.
+{{< image src="images/e3s.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+
+Template link: [MS Word](https://github.com/sravivarmanvce/icsget/raw/main/ICSGET_2024_WOC_2col_Template.docx)
+
+## Submission guidelines
+Three different types of submissions are expected: 1) regular paper, 2) invited paper, and 3) position paper.
+
+Regular paper (8 - 15 pages): Authors should clearly identify the problem, explain their contribution(s), and justify the state-of-the-art works.
+
+Invited paper (8 - 15 pages): Besides regular submissions, well-known research scientists and professors are invited. To be specific, we aim to collect research manuscripts that can portray "years of research experience" plus "challenges and future trends" in those topics mentioned in the CFP. The primary reason behind this is to improve the quality of the conference proceedings. The (ICSGET) team strongly encourages them to submit their abstract as soon as possible to see whether it is appropriate.
+
+Position paper (6 - 8 pages): We are also accepting the position papers for poster presentation and scientific discussion during the event, from early-career research scientists, MPhil, MTech and BTech students. This brings an opportunity for them to meet established research scientists/professors. Therefore, the (ICSGET) team strongly suggests participating.
+
+In general, such position papers should portray a short report of work in progress or an arguable opinion about facts, methods, procedures, or scientific research results. These papers can also be published in E3s Web of Conferences.
+
+{{< notice "warning" >}}
+### Important Note
+Regardless of submission types, authors are always advised to submit their original and unpublished work (related to the conference theme).
+{{< /notice >}}

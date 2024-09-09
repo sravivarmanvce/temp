@@ -11,7 +11,7 @@ Monash University, Melbourne, Victoria, Australia
 
 &nbsp;
 
-![Dr. Saad Motahhir](../assets/images/speaker1.jpg "Dr. Saad Motahhir")  
+![Dr. Saad Motahhir](../assets/images/speaker2.jpg "Dr. Saad Motahhir")  
 Dr. Saad Motahhir  
 ENSA, Fez, Morocco  
 
