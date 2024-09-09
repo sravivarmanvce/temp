@@ -32,7 +32,7 @@ background: '/img/bg-index.jpg'
 ## Important Dates
 <div class="container">
 	<div class="row justify-content-between">
-		<div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
+		<div class="col-lg-6 d-flex align-items-center justify-content-center about-img">
 			<img alt="SDG" src="assets/images/dates.png">
 		</div>
 		<div class="col-lg-6 pt-5 pt-lg-0">
