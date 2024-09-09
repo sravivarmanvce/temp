@@ -44,4 +44,4 @@ The ICSGET-2024 is a platform both for industry and academia to present and disc
 
 Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered (presented) papers is planned to publish in the proceedings of **"E3S Web of Conferences”**.
 
-![EDP Sciences](../assets/images/e3s.png "EDP Sciences")
+![E3S Web of Conferences](../assets/images/e3swoc.png "E3S Web of Conferences") ![EDP Sciences](../assets/images/e3s.png "EDP Sciences")
