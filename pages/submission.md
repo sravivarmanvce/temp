@@ -6,7 +6,7 @@ image: assets/images/banner-alt.png
 ---
 We recommend authors use WORD template. It is planned to publish the proceedings with **"E3S Web of Conferences”**.  
 > ##### **Template:** [MS Word](https://github.com/sravivarmanvce/icsget/raw/main/ICSGET_2024_WOC_2col_Template.docx)  
-> ##### **Submission Link:** [Easychair] (www.easychair.org)
+> ##### **Submission Link:** [Easychair] (https://easychair.org/)
 
 ## Paper submission & review policy
 Authors are advised to submit their original and unpublished work (related to the conference theme).
