@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Past Conferences
-permalink: "/gallery/"
+permalink: "/pastconferences/"
 image: assets/images/banner-alt.png
 ---
 

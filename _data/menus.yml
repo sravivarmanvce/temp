@@ -20,7 +20,7 @@ topmenu:
   url: "registration/"  
 
 - title: Past Conferences
-  url: "gallery/"  
+  url: "pastconferences/"  
 
 - title: Contact
   url: "contact/"
