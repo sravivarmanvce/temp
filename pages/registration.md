@@ -5,7 +5,7 @@ permalink: "/registration/"
 image: assets/images/banner-alt.png
 ---
 
-<table border="1" align="center" style="margin: 0px auto; width:75%">
+<table border="2" align="center" style="margin: 0px auto; width:75%">
   <tr>
     <th>Type of Author</th>
     <th>Indian Authors</th>
