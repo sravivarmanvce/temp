@@ -4,18 +4,18 @@ title: Submission
 permalink: "/submission/"
 image: assets/images/banner-alt.png
 ---
-We recommend authors use WORD template. It is planned to publish the proceedings with **"E3S Web of Conferences”**.  
-> ##### **Template:** [MS Word](https://github.com/sravivarmanvce/icsget/raw/main/ICSGET_2024_WOC_2col_Template.docx)  
+We recommend authors to use WORD template. It is planned to publish the proceedings with **"E3S Web of Conferences”**.  
+> ##### **Template:** [MS Word](../assets/ICSGET_2025_Template_woc_1col.docx)  
 > ##### **Submission Link:** [Easychair] (https://easychair.org/)
 
-## Paper submission & review policy
+## Paper Submission & Review Policy
 Authors are advised to submit their original and unpublished work (related to the conference theme).
 
 The review process takes into account both the quality of writing and the scientific impact of the work. Authors should clearly identify the problem, explain their contribution(s), and justify the state-of-the-art works. The program committee would like to review those who develop, argue, and provide results.
 
 Also, note that the (ICSGET) team takes care of plagiarism (even self-plagiarism) as serious professional misconduct. All papers will be screened for plagiarism, and the (ICSGET) team will reject them in case there exists significant overlap with the previously published papers/papers.
 
-## Submission guidelines
+## Submission Guidelines
 Three different types of submissions are expected: 1) regular paper, 2) invited paper, and 3) position paper.
 
 Regular paper (8 - 15 pages): Authors should clearly identify the problem, explain their contribution(s), and justify the state-of-the-art works.
