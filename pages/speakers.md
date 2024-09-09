@@ -8,12 +8,12 @@ comments: false
 
 <div class="col-md-12">
 <p align="center">
-(../assets/images/speaker1.png)
+![Dr. Hassan Haes Alhelou](../assets/images/speaker1.jpg "Dr. Hassan Haes Alhelou")
 <b>Dr. Hassan Haes Alhelou</b><br>
 Monash University, Melbourne, Victoria, Australia<br> 
 &nbsp;</p>
 <p align="center">
-(../assets/images/speaker2.png)
+(../assets/images/speaker2.jpg)
 <b>Dr. Saad Motahhir</b><br>
 ENSA, Fez, Morocco<br>
 &nbsp;</p>
