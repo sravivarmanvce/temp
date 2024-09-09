@@ -5,7 +5,6 @@
 
 $green:   #08a057 !default;
 $blue:    #3d61fd !default;
-$violet:  #732bf5 !default;
 
 @import 'bootstrap/bootstrap';
 
@@ -53,7 +52,7 @@ h4, .h4, h5, .h5 {
     font-weight:600 !important;
 }
 a {
-    color:violet;
+    color:green;
     text-decoration:none;
     transition: all .4s;
     &:hover {
