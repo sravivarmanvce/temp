@@ -6,14 +6,11 @@ image: assets/images/banner-alt.png
 ---
 
 <table border="1" style="width:75%">
-<thead>
   <tr>
     <th>Type of Author</th>
     <th>Indian Authors</th>
 	<th>Foreign Authors</th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>Faculty/Students</td>
     <td>Rs. 9000/-</td>
@@ -24,7 +21,6 @@ image: assets/images/banner-alt.png
     <td>Rs. 9000/-</td>
 	<td>125 USD</td>
   </tr>
-</tbody>
 </table>
 
 Payment of fees must accompany all registration forms. Your registration WILL NOT be confirmed until payment is received in full. The Authors are requested to pay the Registration Fees using UPI (Google Pay, Phone Pe, etc.).
