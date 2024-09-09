@@ -7,15 +7,15 @@ image: assets/images/banner-alt.png
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-Dr. N. Karuppiah<br>  
+**Dr. N. Karuppiah**   
 Professor and Head, Department of EEE, VCE  
 Mobile: +91 97518 33346
 
-Dr. S. Ravivarman  
+**Dr. S. Ravivarman**  
 Professor, Department of EEE, EEE  
 Mobile: +91 99942 77431
 
-Dr. K. Muruga Perumal  
+**Dr. K. Muruga Perumal**  
 Associate Professor, Department of EEE, VCE  
 Mobile: +91 99448 40062
 
