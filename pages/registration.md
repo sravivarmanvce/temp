@@ -5,7 +5,7 @@ permalink: "/registration/"
 image: assets/images/banner-alt.png
 ---
 
-<table border="1" style="width:75%">
+<table border="1" align="center" style="margin: 0px auto; width:75%">
   <tr>
     <th>Type of Author</th>
     <th>Indian Authors</th>
@@ -28,20 +28,11 @@ Payment of fees must accompany all registration forms. Your registration WILL NO
 
 ## Account Details
 
-| Account Name: | Vardhaman College of Engineering |
-| ------------- | -------------------------------- |
-| Bank Name: | Central Bank of India |
-| Branch: | Gudimalkapuram |
-| Account Number: | 3559461487 |
-| IFSC Code: | CBIN0283080 |
-| MICR Code: | 500016022 |
+| Account Name | : | Vardhaman College of Engineering |
+| ------------- | ---- | -------------------------------- |
+| Bank Name | : | Central Bank of India |
+| Branch | : | Gudimalkapuram |
+| Account Number | : | 3559461487 |
+| IFSC Code | : | CBIN0283080 |
+| MICR Code | : | 500016022 |
 
-
-
-| Header 1 | Header 2 |
-|----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
-| Row 3, Col 1 | Row 3, Col 2 |
-| Row 4, Col 1 | Row 4, Col 2 |
-| Row 5, Col 1 | Row 5, Col 2 |
