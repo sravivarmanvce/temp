@@ -39,7 +39,7 @@ background: '/img/bg-index.jpg'
 			<p></p>
 			<p align="justify">All accepted and registered (presented) papers is planned to publish in the proceedings of E3S Web of Conferences.</p>
 		</div>
-		<div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
+		<div class="col-lg-6 d-flex align-items-center justify-content-center about-img">
 			<img alt="EDP Sciences" src="assets/images/edp.png">
 		</div>
 
