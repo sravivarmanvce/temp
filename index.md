@@ -29,13 +29,13 @@ background: '/img/bg-index.jpg'
 &nbsp;
 
 ---
+## Important Dates
 <div class="container">
 	<div class="row justify-content-between">
 		<div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
 			<img alt="SDG" src="assets/images/dates.png">
 		</div>
 		<div class="col-lg-6 pt-5 pt-lg-0">
-			<h3>Important Dates</h3>
 			<p></p>
 			<ul>
 			<li>Firm deadline: May 01, 2024</li>
@@ -49,10 +49,12 @@ background: '/img/bg-index.jpg'
 ---
 
 &nbsp;
+
+## Conference Proceedings
+
 <div class="container">
 	<div class="row justify-content-between">
 		<div class="col-lg-6 pt-5 pt-lg-0">
-			<h2>Conference Proceedings</h2>
 			<p></p>
 			<p align="justify">All accepted and registered (presented) papers is planned to publish in the proceedings of E3S Web of Conferences.</p>
 		</div>
@@ -67,7 +69,8 @@ background: '/img/bg-index.jpg'
 ---
 
 &nbsp;
-<h3>About Vardhaman College of Engineering</h3>
+## About Vardhaman College of Engineering
+
 <div class="container">
 	<div class="row justify-content-between">
 		<div class="col-lg-3 d-flex align-items-center justify-content-center about-img">
