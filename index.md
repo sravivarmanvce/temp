@@ -12,7 +12,7 @@ background: '/img/bg-index.jpg'
     <div class="col-md-6">
       <!--h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">ICSGET 2025</h1-->
       <h2 class="mb-4" style="color:#ffffff">3<sup>rd</sup> International Conference on Sustainable Green Energy Technologies (ICSGET 2025)</h2>
-	  <h3 class="mb-4" style="color:#ffffff">25 - 26 January 2025</h3>
+	  <h3 class="mb-4" style="color:#ffffff">24 - 25 January 2025</h3>
 	  <h4 class="mb-4" style="color:#ffffff">Organized by Department of EEE, Vardhaman College of Engineering</h4>
       <a href="{{site.baseurl}}/submission" class="btn btn-dark text-white px-5 btn-lg">Submit your paper</a>
     </div>
