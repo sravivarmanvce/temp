@@ -3,18 +3,21 @@ layout: page
 title: Speakers
 permalink: "/speakers/"
 image: assets/images/banner-alt.png
-comments: false
 ---
 
-<div class="col-md-12">
-<p align="center">
 ![Dr. Hassan Haes Alhelou](../assets/images/speaker1.jpg "Dr. Hassan Haes Alhelou")
-<b>Dr. Hassan Haes Alhelou</b><br>
-Monash University, Melbourne, Victoria, Australia<br> 
-&nbsp;</p>
-<p align="center">
+
+Dr. Hassan Haes Alhelou
+
+Monash University, Melbourne, Victoria, Australia
+
+&nbsp;
+
 (../assets/images/speaker2.jpg)
-<b>Dr. Saad Motahhir</b><br>
-ENSA, Fez, Morocco<br>
-&nbsp;</p>
-</div>
+
+Dr. Saad Motahhir
+
+ENSA, Fez, Morocco
+
+&nbsp;
+
