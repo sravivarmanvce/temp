@@ -8,12 +8,12 @@ comments: false
 
 <div class="col-md-12">
 <p align="center">
-{{< image src="/assets/images/speaker1.jpg">}}
+{{< image src="assets/images/speaker1.jpg">}}
 <b>Dr. Hassan Haes Alhelou</b><br>
 Monash University, Melbourne, Victoria, Australia<br> 
 &nbsp;</p>
 <p align="center">
-{{< image src="/assets/images/speaker2.jpg">}}
+{{< image src="assets/images/speaker2.jpg">}}
 <b>Dr. Saad Motahhir</b><br>
 ENSA, Fez, Morocco<br>
 &nbsp;</p>
