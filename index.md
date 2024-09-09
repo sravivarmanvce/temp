@@ -72,39 +72,9 @@ background: '/img/bg-index.jpg'
 
 &nbsp;
 
-#### The Context
-The major challenge is to bring the two groups together in a mutually beneficial way (the Students and the Community). It was specifically to address this challenge that the V-EPICS programme was launched. The V-EPICS programme connects engineering with community service in four verticals of community improvement effort as defined by EPICS in IEEE:
-
-
-<div class="card2__wrap--outer">
-        <div class="card2__wrap--inner">
-            <div class="card2 colorgreen">
-                <div class="card2__item colorgreen"><h5>Access and Abilities</h5></div>
-					<div class="card2__item flexible colorgreen">By bringing together student branches at universities, secondary students and non-profit organizations, there is a greater ability to solve accessibility issues within communities. As students learn to help their community or country through engineering projects, non-profit organizations establish themselves in order to maintain new and profound change. The Access and Abilities projects help enable adaptive services, clinics for those in need (such as children with disabilities), me for adults and assistive technologies.</div>
-            </div>
-        </div>
-			
-		<div class="card2__wrap--inner">
-            <div class="card2 coloryellow">
-                <div class="card2__item coloryellow"><h5>Education and Outreach</h5></div>
-					<div class="card2__item  flexible coloryellow">To help young students and to discover the benefits of science, math, technology and engineering for their future, many projects give students hands-on experience in order to stimulate their interests in those fields. Communities and schools lacking in strong engineering programmes gain new curriculum along with new facilities in which to explore new areas of the topic.</div>
-            </div>
-        </div>
-			
-		<div class="card2__wrap--inner">
-            <div class="card2 colorblue">
-                <div class="card2__item colorblue"><h5>Environment</h5></div>
-					<div class="card2__item flexible colorblue">Engineering and science are key solutions to answering environmental issues. The evolution of technology brings changes in the environment creating the need for sustainability, with new ways to create electricity and energy, recycling and the use of renewable energy sources.</div>
-            </div>
-        </div>		
-		
-		<div class="card2__wrap--inner">
-            <div class="card2 colorlavender">
-                <div class="card2__item colorlavender"><h5>Human Services</h5></div>
-					<div class="card2__item flexible colorlavender">Includes homelessness prevention, affordable housing, family and children agencies, neighborhood revitalization and local government.</div>
-            </div>
-        </div>
-</div>
+#### About Vardhaman College of Engineering
+Vardhaman College of Engineering (VCE) was established in the year 1999 by Vardhaman Educational Society, Hyderabad. It is a UGC Autonomous college, approved by AICTE, and is permanently affiliated to Jawaharlal Nehru Technological University (JNTU), Hyderabad. We offer undergraduate B.Tech programmes in CSE, CSE (AI&ML), AI&ML, AI&DS, IT, ECE, EEE, ME and CE of total intake of 1380; postgraduate M.Tech programmes with specialisation in DECS, PEED, CSE, SE, and ED; MBA programme of total intake of 150; and doctoral programmes in CSE, ECE and ME. The college is accredited by NAAC at A++ grade with a CGPA of 3.58 on a scale of 4. Six of its UG engineering programmes – B. Tech ECE, EEE, CSE, ME, CE, and IT are accredited by the National Board of Accreditation (NBA), New Delhi under the Tier-1 category. VCE is the most sought-after institute to make the dreams fulfilled for many aspiring engineers. Our major strength lies in imparting quality education to the global standards and envisages to address various societal needs.
+<a href="vardhaman.org" class="btn btn-dark text-white px-5 btn-lg">www.vardhaman.org</a>
 &nbsp;
 
 ---
