@@ -7,19 +7,19 @@ image: assets/images/banner-alt.png
 
 <table border="2" align="center" style="margin: 0px auto; width:75%">
   <tr>
-    <th>Type of Author</th>
-    <th>Indian Authors</th>
-	<th>Foreign Authors</th>
+    <th> Type of Author </th>
+    <th> Indian Authors </th>
+	<th> Foreign Authors </th>
   </tr>
   <tr>
-    <td>Faculty/Students</td>
-    <td>Rs. 9000/-</td>
-	<td>125 USD</td>
+    <td> Faculty/Students </td>
+    <td> Rs. 9000/- </td>
+	<td> 125 USD </td>
   </tr>
   <tr>
-    <td>Industry</td>
-    <td>Rs. 9000/-</td>
-	<td>125 USD</td>
+    <td> Industry </td>
+    <td> Rs. 9000/- </td>
+	<td> 125 USD </td>
   </tr>
 </table>
 
