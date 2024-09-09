@@ -13,34 +13,30 @@ Sri E. Prabhakar Reddy, Treasurer, Vardhaman College of Engineering, Hyderabad, 
 #### Patron
 Dr. JVR Ravindra, Principal, Vardhaman College of Engineering, Hyderabad, India
 #### General Chair
-Sanjeevikumar Padmanabhan (Aarhus University, Denmark)<br>
-Nnamdi Nwulu (University of Johannesburg, South Africa)<br>
+Tomonobu Senjyu (Univeristy of the Ryukyus, Japan)<br>
+Celestine Iwendi (University of Bolton, United Kingdom)<br>
 N. Karuppiah (Vardhaman College of Engineering, India)<br>
 S. Ravivarman (Vardhaman College of Engineering, India)<br>
-B. Praveen Kumar (Vardhaman College of Engineering, India)<br>
 K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
 #### Programme Chair
-Abdelkrim Haqiq (Hassan 1st University, FST-Settat, Morocco)<br>
-Ayush Goyal (Texas A & M Ville University KingsVilley, Texas)<br>
-Celestine Iwendi (University of Bolton, United Kingdom)<br>
-Sanju Tiwari (Universidad Autonoma de Tamaulipas, Mexico)<br>
+Nnamdi Nwulu (University of Johannesburg, South Africa)<br>
+B. Praveen Kumar (Universiti Kebangsaan, Malaysia)<br>
 Md. Asif (Vardhaman College of Engineering, India)<br>
 S. Ravivarman (Vardhaman College of Engineering, India)<br>
 #### Steering Committee
-Celia Shahnaz (Bangladesh University of Engineering & Technology, Bangladesh)<br>
+Parvez Mahmud (University of Technology Sydney,Australia)<br>
 Hari Shankar Jain (Vardhaman College of Engineering, India)<br>
 Puneet Kumar Mishra (U R Rao Satellite Centre, India)<br>
-San Murugesan (Western Sydney University, Australia)<br>
+Mohammad Faridun Naim Tajddin (Universiti Malaysia Perlis, Malaysia)<br>
 #### Publication Chair
-Shishir Kumar Shandilya (VIT Bhopal University, India)<br>
-Udit Chawla (University of Engineering & Management, India)<br>
-K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
+Suganthi Ramasamy (University of Cagliari, Italy)<br>
+Muhammad Ammirrul Atiqi (Universiti Kebangsaan, Malaysia)<br>
 Patil Mounica (Vardhaman College of Engineering, India)<br>
+T. Anuradha Devi (Vardhaman College of Engineering, India)<br>
 #### Technical Program Committee
 Akhtar Kalam (Victoria University, Melbourne, Australia)<br>
 Ankur Gupta (Indian Institute Technology, Dhanbad, India)<br>
 Anupkumar Panda (National Institute of Technology, Rourkela, India)<br>
-Anusuya Bhattacharyya (Vellore Institute of Technology, Vellore, India)<br>
 Arshad Md. (Morgan & Stanley, USA)<br>
 Arunkumar P (Eindhoven University, Netherland)<br>
 B Chitti Babu (IIITD & M Kancheepuram, India)<br>
@@ -96,26 +92,23 @@ Xiao-Zhi Gao (University of Eastern Finland, Finland)<br>
 Zahra Saadatizadeh (University of Arkansas, USA)<br>
 Özen ÖZER (Kırklareli University, Kırklareli, Turkey)<br>
 #### Workshop Chair
-Shawana Tabassum (University of Texas at Tyler)<br>
 Amirrudin Kamsin (University of Malaya, Malaysia)<br>
-T. Anuradha Devi (Vardhaman College of Engineering, India)<br>
-#### Organizing Committee
-M. Affan Badar (Indiana State University, USA)<br>
-Patience Usoro Usip (University of Uyo, Nigeria )<br>
-N. Karuppiah (Vardhaman College of Engineering, India)<br>
-S. Ravivarman (Vardhaman College of Engineering, India)<br>
-B. Praveen Kumar (Vardhaman College of Engineering, India)<br>
-#### Local Organizing Committee
-K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
-P. Mounica (Vardhaman College of Engineering, India)<br>
-T. Anuradha Devi (Vardhaman College of Engineering, India)<br>
-B. Raja Gopal Reddy (Vardhaman College of Engineering, India)<br>
-A. Ramakrishna (Vardhaman College of Engineering, India)<br>
 N. Srinivas (Vardhaman College of Engineering, India)<br>
 A. Ananda Kumar (Vardhaman College of Engineering, India)<br>
+#### Organizing Committee
+Belqasem Aljafari (Najran Univeristy, Saudi Arabia) <br>
+Victor Ayodeli (Unisiti Teknologi Petronas, Malaysia) <br>
+N. Karuppiah (Vardhaman College of Engineering, India)<br>
+S. Ravivarman (Vardhaman College of Engineering, India)<br>
+K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
+#### Local Organizing Committee
+B. Raja Gopal Reddy (Vardhaman College of Engineering, India)<br>
+A. Ramakrishna (Vardhaman College of Engineering, India)<br>
 B. Mohan (Vardhaman College of Engineering, India)<br>
 K. C. Archana (Vardhaman College of Engineering, India)<br>
 G. Indira Rani (Vardhaman College of Engineering, India)<br>
 Fatima Unnisa (Vardhaman College of Engineering, India)<br>
 K. Haleema (Vardhaman College of Engineering, India)<br>
 S. Vinod Reddy (Vardhaman College of Engineering, India)<br>
+D. Revathi (Vardhaman College of Engineering, India)<br>
+Shaik Rahimpasha (Vardhaman College of Engineering, India)<br>
