@@ -17,7 +17,7 @@ topmenu:
   url: "submission/"  
 
 - title: Registration
-  url: "gallery/"  
+  url: "registration/"  
 
 - title: Past Conferences
   url: "gallery/"  
