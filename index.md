@@ -29,25 +29,6 @@ background: '/img/bg-index.jpg'
 &nbsp;
 
 ---
-## Important Dates
-<div class="container">
-	<div class="row justify-content-between">
-		<div class="col-lg-6 d-flex align-items-center justify-content-center about-img">
-			<img alt="SDG" src="assets/images/dates.png">
-		</div>
-		<div class="col-lg-6 pt-5 pt-lg-0">
-			<p></p>
-			<ul>
-			<li>Firm deadline: May 01, 2024</li>
-			<li>Author Notification: May 20, 2024</li>
-			<li>Camera-Ready Submission: May 30, 2024</li>
-			<li>Conference Date: June 14, 15, 2024</li>
-			</ul>
-		</div>
-	</div>
-</div>
----
-
 &nbsp;
 
 ## Conference Proceedings
@@ -59,7 +40,7 @@ background: '/img/bg-index.jpg'
 			<p align="justify">All accepted and registered (presented) papers is planned to publish in the proceedings of E3S Web of Conferences.</p>
 		</div>
 		<div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
-			<img alt="Purdue" src="assets/images/edp.png">
+			<img alt="EDP Sciences" src="assets/images/edp.png">
 		</div>
 
 	</div>
@@ -72,7 +53,7 @@ background: '/img/bg-index.jpg'
 <div class="container">
 	<div class="row justify-content-between">
 		<div class="col-lg-3 d-flex align-items-center justify-content-center about-img">
-			<img alt="SDG" src="assets/images/vce.png">
+			<img alt="Vardhaman College of Engineering" src="assets/images/vce.png">
 		</div>
 		<div class="col-lg-9 pt-5 pt-lg-0">
 			<p></p>
