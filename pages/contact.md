@@ -28,7 +28,7 @@ Mobile: +91 99448 40062
 <span class="fa fa-map-marker"></span>
 </div>
 <div class="text">
-<p><span>Address:</span> Department of EEE,</br> Vardhaman College of Engineering,</br> Kacharam, Shamshabad - 501218,</br> Hyderabad, Telangana, India</p>
+<p><span>Address:</span> Department of EEE,<br> Vardhaman College of Engineering,<br> Kacharam, Shamshabad - 501218,<br> Hyderabad, Telangana, India</p>
 </div>
 </div>
 </div>
@@ -53,7 +53,7 @@ Mobile: +91 99448 40062
 </div>
 </div>
 </div>
-</br>
+<br>
 <p></p>
 
 <hr>
