@@ -28,32 +28,9 @@ Payment of fees must accompany all registration forms. Your registration WILL NO
 
 ## Account Details
 
-<table border="1" style="width:75%">
-<tbody>
-  <tr>
-    <td>Account Name</td>
-    <td>Vardhaman College of Engineering</td>
-  </tr>
-  <tr>
-  <tr>
-    <td>Bank Name</td>
-    <td>Central Bank of India</td>
-  </tr>
-  <tr>
-    <td>Branch</td>
-    <td>Gudimalkapuram</td>
-  </tr>
-  <tr>
-    <td>Account Number</td>
-    <td>3559461487</td>
-  </tr>
-  <tr>
-    <td>IFSC Code</td>
-    <td>CBIN0283080</td>
-  </tr>
-  <tr>
-    <td>MICR Code</td>
-    <td>500016022</td>
-  </tr>
-</tbody>
-</table>
+Account Name: Vardhaman College of Engineering  
+Bank Name: Central Bank of India  
+Branch: Gudimalkapuram  
+Account Number: 3559461487  
+IFSC Code: CBIN0283080  
+MICR Code: 500016022  
