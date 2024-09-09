@@ -27,8 +27,8 @@ Payment of fees must accompany all registration forms. Your registration WILL NO
 
 
 ## Account Details
-|-----------------------------------------------|
 |Account Name:| Vardhaman College of Engineering|
+|-------------|---------------------------------|
 |Bank Name:| Central Bank of India|
 |Branch:| Gudimalkapuram|
 |Account Number:| 3559461487|
