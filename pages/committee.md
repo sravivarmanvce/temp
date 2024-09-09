@@ -22,7 +22,7 @@ K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
 Nnamdi Nwulu (University of Johannesburg, South Africa)<br>
 B. Praveen Kumar (Universiti Kebangsaan, Malaysia)<br>
 Md. Asif (Vardhaman College of Engineering, India)<br>
-S. Ravivarman (Vardhaman College of Engineering, India)<br>
+Patil Mounica (Vardhaman College of Engineering, India)<br>
 #### Steering Committee
 Parvez Mahmud (University of Technology Sydney,Australia)<br>
 Hari Shankar Jain (Vardhaman College of Engineering, India)<br>
@@ -31,7 +31,6 @@ Mohammad Faridun Naim Tajddin (Universiti Malaysia Perlis, Malaysia)<br>
 #### Publication Chair
 Suganthi Ramasamy (University of Cagliari, Italy)<br>
 Muhammad Ammirrul Atiqi (Universiti Kebangsaan, Malaysia)<br>
-Patil Mounica (Vardhaman College of Engineering, India)<br>
 T. Anuradha Devi (Vardhaman College of Engineering, India)<br>
 #### Technical Program Committee
 Akhtar Kalam (Victoria University, Melbourne, Australia)<br>
