@@ -4,23 +4,49 @@ title: Call for Papers
 permalink: "/callforpapers/"
 image: assets/images/vardhaman.png
 ---
+<div class="rounded mb-5 hero">
+  <div class="row align-items-center justify-content-between">
+    <div class="col-md-6">
+      <!--h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">ICSGET 2025</h1-->
+      <h2 class="mb-4" style="color:#ffffff">3<sup>rd</sup> International Conference on Sustainable Green Energy Technologies (ICSGET 2025)</h2>
+	  <h3 class="mb-4" style="color:#ffffff">25 - 26 January 2025</h3>
+	  <h4 class="mb-4" style="color:#ffffff">Organized by Department of EEE, Vardhaman College of Engineering</h4>
+    </div>
+    <div class="col-md-6 text-right pl-0 pl-lg-4">
+      <img class="intro" height="300" src="{{site.baseurl}}/assets/images/intro.png">      
+    </div>
+  </div>
+</div>
 
-#### EPICS @ Vardhaman
+
+## Call for Papers
+
+The ICSGET-2024 is a platform both for industry and academia to present and discuss the innovations, trends, and concerns as well as the challenges encountered and solutions. We invite researchers, professionals, and industry experts to to submit their original, unpublished research contributions to these tracks that are not currently under consideration by another conference/journal, and be part of a collaborative effort to shape a sustainable and eco-conscious energy future.
+
+**Track 4: Green Electronics and Energy-Efficient Circuits**
+- Focus on environmentally friendly electronics
+- Low-power design innovations
+- Sustainable manufacturing processes
+- Innovations in electronic circuits
+- Strategies for reducing the ecological footprint of electronic systems
+
+**Track 5: Advanced Energy Storage Solutions**
+- Cutting-edge advancements in energy storage technologies
+- Novel energy storage materials
+- Efficient storage systems
+- Innovative approaches to enhance reliability
+- Integration of battery technologies, supercapacitors, and thermal energy storage into sustainable energy ecosystems
+
+
+Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered (presented) papers is planned to publish in the proceedings of **"E3S Web of Conferences”**.
+{{< image src="images/e3s.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}.
+
+
 <p align="justify">VCE - Engineering Projects in community Services (VISn @ V – Viable Innovative Solutions for community needs at Vardhaman) is one of the best practices in Vardhaman Campus. EPICS is a unique programme in which teams of undergraduates design, build, and deploy real systems to solve engineering problems for local community service and educational organizations.The programme focuses on identifying the needs of the society and providing a viable and sustainable solution.</p>
 
 ---
 
-#### EPICS in Curriculum
-
-##### Version #1
-![EPICS in Curriculum: Version #1](../assets/images/epics-curriculum-v1.png "EPICS in Curriculum: Version #1")
-
-##### Version #2
-![EPICS in Curriculum: Version #2](../assets/images/epics-curriculum-v2.png "EPICS in Curriculum: Version #2")
-
----
-
-#### The Context
+#### Tracks
 The major challenge is to bring the two groups together in a mutually beneficial way (the Students and the Community). It was specifically to address this challenge that the V-EPICS programme was launched. The V-EPICS programme connects engineering with community service in four verticals of community improvement effort as defined by EPICS in IEEE:
 
 
@@ -28,28 +54,56 @@ The major challenge is to bring the two groups together in a mutually beneficial
         <div class="card2__wrap--inner">
             <div class="card2 colorgreen">
                 <div class="card2__item colorgreen"><h5>Access and Abilities</h5></div>
-					<div class="card2__item flexible colorgreen">By bringing together student branches at universities, secondary students and non-profit organizations, there is a greater ability to solve accessibility issues within communities. As students learn to help their community or country through engineering projects, non-profit organizations establish themselves in order to maintain new and profound change. The Access and Abilities projects help enable adaptive services, clinics for those in need (such as children with disabilities), me for adults and assistive technologies.</div>
+					<div class="card2__item flexible colorgreen">
+					**Track 1: Green Energy Generation and Integration**
+					- Advancements in sustainable energy generation technologies
+					- Solar, wind, hydropower, and bioenergy innovations
+					- Integration strategies for green energy sources
+					- Grid connectivity and optimization
+					- Solutions for enhancing the performance of green energy systems
+					</div>
             </div>
         </div>
 			
 		<div class="card2__wrap--inner">
             <div class="card2 coloryellow">
                 <div class="card2__item coloryellow"><h5>Education and Outreach</h5></div>
-					<div class="card2__item  flexible coloryellow">To help young students and to discover the benefits of science, math, technology and engineering for their future, many projects give students hands-on experience in order to stimulate their interests in those fields. Communities and schools lacking in strong engineering programmes gain new curriculum along with new facilities in which to explore new areas of the topic.</div>
+					<div class="card2__item  flexible coloryellow">
+					**Track 2: Smart Grids and Sustainable Infrastructure**
+					- Research on intelligent energy grids
+					- Demand-side management strategies
+					- Sustainable infrastructure development
+					- Grid resilience and efficient energy distribution
+					- Integration of renewable energy into existing power systems
+					</div>
             </div>
         </div>
 			
 		<div class="card2__wrap--inner">
             <div class="card2 colorblue">
                 <div class="card2__item colorblue"><h5>Environment</h5></div>
-					<div class="card2__item flexible colorblue">Engineering and science are key solutions to answering environmental issues. The evolution of technology brings changes in the environment creating the need for sustainability, with new ways to create electricity and energy, recycling and the use of renewable energy sources.</div>
+					<div class="card2__item flexible colorblue">
+					**Track 3: Electric Mobility and Transportation Sustainability**
+					- Insights on electric vehicle technologies
+					- Charging infrastructure advancements
+					- Sustainable transportation solutions
+					- Environmental impact of electric mobility
+					- Innovations in energy-efficient transportation systems 
+					</div>
             </div>
         </div>		
 		
 		<div class="card2__wrap--inner">
             <div class="card2 colorlavender">
                 <div class="card2__item colorlavender"><h5>Human Services</h5></div>
-					<div class="card2__item flexible colorlavender">Includes homelessness prevention, affordable housing, family and children agencies, neighborhood revitalization and local government.</div>
+					<div class="card2__item flexible colorlavender">
+					**Track 4: Green Electronics and Energy-Efficient Circuits**
+					- Focus on environmentally friendly electronics
+					- Low-power design innovations
+					- Sustainable manufacturing processes
+					- Innovations in electronic circuits
+					- Strategies for reducing the ecological footprint of electronic systems
+					</div>
             </div>
         </div>
 </div>
