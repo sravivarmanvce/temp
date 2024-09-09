@@ -24,8 +24,6 @@ image: assets/images/banner-alt.png
     <td>Rs. 9000/-</td>
 	<td>125 USD</td>
   </tr>
-</tbody>
-</table>
 
 
 Payment of fees must accompany all registration forms. Your registration WILL NOT be confirmed until payment is received in full. The Authors are requested to pay the Registration Fees using UPI (Google Pay, Phone Pe, etc.).
