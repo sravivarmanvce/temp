@@ -1,24 +1,12 @@
 ---
-layout: projects
+layout: page
 title: Submission
 permalink: "/submission/"
-image: assets/images/resources.png
-comments: false
+image: assets/images/banner-alt.png
 ---
 
-{{< tabs >}}
-{{< tab "Important Dates" >}}
-**Firm deadline:** ~~May 1, 2024~~(Submission Closed)<br>
-**Author Notification:** May 20, 2024<br>
-**Camera-Ready Submission:** May 30, 2024<br>
-**Conference Date:** June 14, 15, 2024<br>
-{{< /tab >}}
-{{< /tabs >}}
-
-## Template and Submission
-
 > #### **Template:** [MS Word](https://github.com/sravivarmanvce/icsget/raw/main/ICSGET_2024_WOC_2col_Template.docx)<br>
-> #### **Submission Link:** Submission Closed
+> #### **Submission Link:** Easychair
 
 ## Paper submission & review policy
 Authors are advised to submit their original and unpublished work (related to the conference theme).
@@ -29,7 +17,7 @@ Also, note that the (ICSGET) team takes care of plagiarism (even self-plagiarism
 
 ## Template (for papers)
 We recommend authors use WORD template. It is planned to publish the proceedings with **"E3S Web of Conferences”**.
-{{< image src="images/e3s.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="assets/images/e3s.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 Template link: [MS Word](https://github.com/sravivarmanvce/icsget/raw/main/ICSGET_2024_WOC_2col_Template.docx)
 
