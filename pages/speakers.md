@@ -1,13 +1,10 @@
 ---
-layout: projects
+layout: page
 title: Speakers
 permalink: "/speakers/"
 image: assets/images/banner-alt.png
 comments: false
 ---
-
-### List of Projects
-The EPICS Cell conducts surveys and identifies research across a wide range of topics, and supports multidisciplinarity and collaboration. We target both the fundamental advances and the practical applications of science, engineering and technology to help address some of the greatest challenges of the community.
 
 <div class="col-md-12">
 <p align="center">
