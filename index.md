@@ -25,7 +25,12 @@ background: '/img/bg-index.jpg'
 
 &nbsp;
 ## ICSGET 2025
-<p align="justify">The 3<sup>rd</sup> International Conference on Sustainable Green Energy Technologies (ICSGET 2025) is conducted by the Department of Electrical and Electronics Engineering, Vardhaman College of Engineering, Hyderabad. The main aim of this international conference is to bring together researchers to facilitate knowledge sharing in emerging technologies and enhance collaboration world over. Along with researchers, the professionals and executives from energy sector, manufacturing industries, electrical power companies are invited to share their ideas and information pertaining to recent thrust areas of sustainable green energy technologies. The conference will enable the delegates to undertake collaborative research, update their technical knowledge and to stay in tune with recent advances. The technical program consists of keynote lectures, peer-reviewed paper presentations, panel discussions and presentations by industry professionals. It is envisaged that the conference will provide a platform where opportunities for national and international collaboration amongst top universities (from India and abroad) is plentiful.</p>
+<p align="justify">The 3<sup>rd</sup> The 3rd International Conference on Sustainable Green Energy Technologies (ICSGET 2025) will bring together a diverse group of experts, researchers, and industry professionals, passionate about advancing sustainability. The conference will explore into the latest developments in sustainable technologies in the fields such as smart grids and microgrids, focusing on enhancing grid resilience, cybersecurity, and power quality. New breakthroughs in battery technologies, energy storage, and charging infrastructure will be explored, along with the seamless integration of renewable energy and electric vehicles.  
+
+Showcasing innovations in smart electronics, including energy-efficient designs and wearable technology for health and environmental monitoring, will be a key highlight. Discussions will cover green manufacturing practices and the role of AI in creating more sustainable electronics. The conference will also feature cutting-edge materials for renewable energy and green construction, as well as innovative use of nanomaterials for environmental cleanup and healthcare applications.  
+
+Additionally, the transformative impact of nanotechnology on fields such as solar energy, chemical processes, environmental safety, and health diagnostics will be examined. ICSGET 2025 aims to foster connections, spark new ideas, and share knowledge to address global challenges and promote a greener, more resilient future.
+</p>
 &nbsp;
 
 ---
