@@ -1,0 +1,53 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Call for Papers"
+url = "papers/"
+weight = 1
+
+[[main]]
+name = "Committee"
+url = "committee/"
+weight = 2
+
+[[main]]
+name = "Speakers"
+url = "speakers/"
+weight = 3
+
+[[main]]
+name = "Submission"
+url = "submission/"
+weight = 4
+
+[[main]]
+name = "Registration"
+url = "registration/"
+weight = 5
+
+[[main]]
+name = "Past Conference"
+url = "icsget2022/"
+weight = 6
+
+[[main]]
+name = "Contact"
+url = "contactus/"
+weight = 7
+
+# footer menu
+[[footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "Submission"
+url = "submission/"
+weight = 2
+
+[[footer]]
+name = "Contact"
+url = "contactus/"
+weight = 3
