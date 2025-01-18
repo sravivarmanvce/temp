@@ -7499,10 +7499,10 @@ h1, h2, h3, h4, h5,
     opacity: .05; }
 
 .slider-text h1 {
-  font-size: 64px;
-  color: #6b76ff;
+  font-size: 44px;
+  color: #6b7fff;
   line-height: 1.2;
-  font-weight: 200;
+  font-weight: 600;
   background: #6b75ff;
   background: -moz-linear-gradient(45deg, #6b75ff 0%, #6b75ff 0%, #59b7ff 100%);
   background: -webkit-gradient(left bottom, right top, color-stop(0%, #6b75ff), color-stop(0%, #6b75ff), color-stop(100%, #59b7ff));
@@ -7521,10 +7521,10 @@ h1, h2, h3, h4, h5,
     font-weight: 700; }
 
 .slider-text p {
-  font-size: 20px;
+  font-size: 30px;
   line-height: 1.5;
-  font-weight: 300;
-  color: rgba(0, 0, 0, 0.8); }
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.9); }
   .slider-text p strong {
     font-weight: 700; }
     .slider-text p strong a {
