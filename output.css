@@ -1335,6 +1335,10 @@ input:checked + .toggle-bg {
   gap: 2rem;
 }
 
+.gap-16 {
+  gap: 4rem;
+}
+
 .space-y-4 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-y-reverse: 0;
   margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
@@ -1753,6 +1757,12 @@ input:checked + .toggle-bg {
   --tw-text-opacity: 1;
   color: rgb(28 100 242 / var(--tw-text-opacity));
 }
+
+.text-blue-800 {
+  --tw-text-opacity: 1;
+  color: rgb(60 73 120 / var(--tw-text-opacity));
+}
+
 
 .opacity-0 {
   opacity: 0;
